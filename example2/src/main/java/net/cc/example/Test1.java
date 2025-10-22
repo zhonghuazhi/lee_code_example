@@ -3,7 +3,7 @@ package net.cc.example;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * 【删除有序数组中的重复项】
+ * LeeCode 26【删除有序数组中的重复项】
  * <p>
  * 给你⼀个 升序排列 的数组 nums ，请你 原地 删除重复出现的元素，使每个元素 只出现⼀次 ，返回删除后数组的
  * 新⻓度。元素的 相对顺序 应该保持 ⼀致 。

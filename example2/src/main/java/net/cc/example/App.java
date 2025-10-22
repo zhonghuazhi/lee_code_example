@@ -13,8 +13,8 @@ public class App {
 
         log.info("Hello world!");
 
-        int[] nums = {1, 1, 2, 2, 3, 3, 3, 4, 5, 6, 6, 6};
-        int op = Test1.test(nums);
+        int[] nums = {1,2,3,1,1,2};
+        int op = Test2.test(nums ,1);
 
         log.info("op :{} ,nums:{}", op, Arrays.toString(nums));
     }

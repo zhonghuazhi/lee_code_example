@@ -13,9 +13,9 @@ public class App {
 
         log.info("Hello world!");
 
-        int[] nums = {1,2,3,1,1,2};
-        int op = Test2.test(nums ,1);
+        int[] nums = {1,0,0,0,0,2,3,4,5};
+        Test3.test(nums);
 
-        log.info("op :{} ,nums:{}", op, Arrays.toString(nums));
+        log.info("op :{} ,nums:{}", 0, Arrays.toString(nums));
     }
 }

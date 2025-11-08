@@ -7,11 +7,10 @@ package net.cc.example;
  * 不要使⽤额外的数组空间，你必须仅使⽤ O(1) 额外空间并 原地 修改输⼊数组。
  * 元素的顺序可以改变。你不需要考虑数组中超出新⻓度后⾯的元素。
  *
- * @author [zhonghua.zhi]
+ * @author [zhonghua]
  * @version 1.0
  * @classname Test2
  * @date 2025-10-22 20:22
- * @description zhizh@asiainfo.com
  */
 public class Test2 {
 

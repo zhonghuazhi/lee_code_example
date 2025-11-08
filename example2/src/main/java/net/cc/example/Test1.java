@@ -13,11 +13,10 @@ import lombok.extern.slf4j.Slf4j;
  * <p>
  * 将最终结果插⼊ nums 的前 k 个位置后返回 k
  *
- * @author [zhonghua.zhi]
+ * @author [zhonghua]
  * @version 1.0
  * @classname Test1
  * @date 2025-10-21 14:59
- * @description zhizh@asiainfo.com
  */
 @Slf4j
 public class Test1 {
